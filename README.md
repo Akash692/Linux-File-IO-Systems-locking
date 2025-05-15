@@ -1,5 +1,7 @@
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
+# NAME S.T.DHANAAAKHAASH
+# REG NO 212224240032
 # AIM:
 To Write a C program that illustrates files copying and locking
 
